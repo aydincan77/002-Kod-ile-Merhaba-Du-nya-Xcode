@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B7374FDA20BF54A200BABE50 /* ios.png in Resources */ = {isa = PBXBuildFile; fileRef = B7374FD920BF54A200BABE50 /* ios.png */; };
 		B7FE595020ACC17800E18CE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7FE594F20ACC17800E18CE3 /* AppDelegate.swift */; };
 		B7FE595220ACC17800E18CE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7FE595120ACC17800E18CE3 /* ViewController.swift */; };
 		B7FE595520ACC17800E18CE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7FE595320ACC17800E18CE3 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B7374FD920BF54A200BABE50 /* ios.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios.png; sourceTree = "<group>"; };
 		B7FE594C20ACC17800E18CE3 /* Kod ile Merhaba Dünya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kod ile Merhaba Dünya.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7FE594F20ACC17800E18CE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7FE595120ACC17800E18CE3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B7FE595320ACC17800E18CE3 /* Main.storyboard */,
 				B7FE595620ACC17900E18CE3 /* Assets.xcassets */,
 				B7FE595820ACC17900E18CE3 /* LaunchScreen.storyboard */,
+				B7374FD920BF54A200BABE50 /* ios.png */,
 				B7FE595B20ACC17900E18CE3 /* Info.plist */,
 			);
 			path = "Kod ile Merhaba Dünya";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7FE595A20ACC17900E18CE3 /* LaunchScreen.storyboard in Resources */,
+				B7374FDA20BF54A200BABE50 /* ios.png in Resources */,
 				B7FE595720ACC17900E18CE3 /* Assets.xcassets in Resources */,
 				B7FE595520ACC17800E18CE3 /* Main.storyboard in Resources */,
 			);
